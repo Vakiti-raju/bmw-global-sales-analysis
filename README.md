@@ -13,6 +13,7 @@ This project analyzes BMW global sales data to understand sales trends, regional
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Powe BI
 
 ## Key Insights
 - BMW sales show a general upward trend.
